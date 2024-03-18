@@ -6,3 +6,7 @@ Juan A. Bogliaccini es Profesor del Departamento de Ciencias Sociales y Decano d
 Bogliaccini ha publicado dos libros: Empowering Labour: Leftist Approaches to Wage Policy in Latin America (próximamente en 2024 en la CUP), Twittarquía: la Política de las Redes en Uruguay, y decenas de artículos académicos y artículos de opinión. Su investigación ha sido financiada por la Agencia Nacional de Investigación e Innovación de Uruguay, FONDECYT Chile, Konrad Adenauer Stiftung, Departamento de Investigación de la OIT, PNUD, BID, UNU-Wider, entre otros.
 
 ![Juan%20Ariel%20Bogliaccini](https://github.com/labcrimen/bios/blob/main/Juan%20Ariel%20Bogliaccini.jpg)
+
+### Links a publicaciones ###
+
+[](https://journals.sagepub.com/doi/abs/10.1177/08874034211046985?journalCode=cjpa/"Tackling Drug-Lords in a Nascent Market: Raids and Drug Crime in Uruguay")
