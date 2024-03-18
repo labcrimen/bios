@@ -10,3 +10,9 @@ Bogliaccini ha publicado dos libros: Empowering Labour: Leftist Approaches to Wa
 ### Links a publicaciones ###
 
 [Tackling Drug-Lords in a Nascent Market: Raids and Drug Crime in Uruguay](https://journals.sagepub.com/doi/abs/10.1177/08874034211046985?journalCode=cjpa)
+
+### Links a recursos ###
+
+[Podcast Proyecto ANII Cap 1](https://open.spotify.com/embed-podcast/episode/4iSZixMSIwlYZqURUt3XSS)
+[Podcast Proyecto ANII Cap 2](https://open.spotify.com/embed-podcast/episode/2alwgmrd2jLrVbAD4zOrzE)
+[Podcast Proyecto ANII Cap 3](https://open.spotify.com/embed-podcast/episode/0ssje04S5gsLYiwSUXLIC9)
