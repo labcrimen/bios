@@ -49,11 +49,11 @@ Rosario Queirolo es Ph.D en Ciencia Política (University of Pittsburgh, 2008), 
 
 ### Links a publicaciones ###
 
-[Explaining the Impact of Legal Access to Cannabis on Attitudes toward Users”(2023)](https://academic.oup.com/ijpor/article-abstract/35/2/edad010/7118416?redirectedFrom=fulltext&login=false)
+[Explaining the Impact of Legal Access to Cannabis on Attitudes toward Users (2023)](https://academic.oup.com/ijpor/article-abstract/35/2/edad010/7118416?redirectedFrom=fulltext&login=false)
 
-[Legal or not: A comparative analysis of Belgian and Uruguayan Cannabis Social Club members' profile and policy preferences" (2022)](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003055679-6/legal-eliana-%C3%A1lvarez-rosario-queirolo-lorena-repetto-mafalda-pardal)
+[Legal or not: A comparative analysis of Belgian and Uruguayan Cannabis Social Club members' profile and policy preferences (2022)](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003055679-6/legal-eliana-%C3%A1lvarez-rosario-queirolo-lorena-repetto-mafalda-pardal)
 
-[Conflicting forces in the implementation of medicinal cannabis regulation in Uruguay(2023)](https://pubmed.ncbi.nlm.nih.gov/37434242/)
+[Conflicting forces in the implementation of medicinal cannabis regulation in Uruguay (2023)](https://pubmed.ncbi.nlm.nih.gov/37434242/)
 
 ## Inés Fynn ##
 
