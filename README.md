@@ -23,11 +23,43 @@ Bogliaccini ha publicado dos libros: Empowering Labour: Leftist Approaches to Wa
 
 [Podcast Proyecto ANII Cap 3](https://open.spotify.com/embed-podcast/episode/0ssje04S5gsLYiwSUXLIC9)
 
+## Emiliano Tealde ##
+
+Emiliano Tealde es Doctor en Economía por la Universidad de Siena, Italia, y es Profesor Asociado en el Departamento de Ciencias Sociales de la Universidad Católica del Uruguay. Su principal área de interés es la economía del crimen. Ha publicado en revistas como The Journal of Population Economics, Government Information Quarterly, Economía Lacea Journal, entre otras.
+
+![Emiliano Tealde](https://github.com/labcrimen/bios/blob/main/E. Tealde.jpg)
+
+### Links a publicaciones ###
+
+[How the exercise of the right to information (RTI) affects trust in political institutions (2023)](https://www.sciencedirect.com/science/article/abs/pii/S0740624X2300038)
+
+[The Unequal Impact of Natural Light on Crime (2022)](https://link.springer.com/epdf/10.1007/s00148-021-00831-8?sharing_token=cfHvdWLOKXwTV5NzSNzy3fe4RwlQNchNByi7wbcMAY4iy8ye4jfk5x72pU7Ium1fxvXdXUq-ajbU-cTCM-713D9YsAyW8IJJqxlPOgPShAQkerWZfaS8fBvBR4v_tIdww7Huy_9cXqscneLc3rrasKwEjln9HMjf1CLhlB8SzXU%3D)
+
+[The Impact of Police Presence on Drug Trade-Related Violence (2019)]( https://economia.lse.ac.uk/articles/10.1353/eco.2019.0008)
+
+### Web personal ###
+
+[www.emilianotealde.com](www.emilianotealde.com)
+
+## Rosario Queirolo ##
+
+Rosario Queirolo es Ph.D en Ciencia Política (University of Pittsburgh, 2008), y  Profesora Titular en el Departamento de Ciencias Sociales de la Universidad Católica del Uruguay. Sus áreas de investigación son el comportamiento electoral, la opinión pública, y las políticas de drogas y seguridad. En los últimos años ha estado investigando sobre los procesos de regulación de cannabis y sus impactos. Es autora de "The Success of the Left in Latin America. Untainted Parties, Market Reforms and Voting Behavior" (University of Notre Dame Press, 2013). Ha publicado numerosos capítulos de libros y artículos en revistas como International Journal of Public Opinion Research; Journal of Elections, Public Opinion and Parties; Addiction; International Journal of Drug Policy; World Psychiatry; Journal of Colombia Internacional; Drug and Alcohol Review; Revista de Ciencia Política; entre otras.
+
+![Rosario Queirolo](https://github.com/labcrimen/bios/blob/main/rosario queirolo.jpg)
+
+### Links a publicaciones ###
+
+[Explaining the Impact of Legal Access to Cannabis on Attitudes toward Users”(2023)](https://academic.oup.com/ijpor/article-abstract/35/2/edad010/7118416?redirectedFrom=fulltext&login=false)
+
+[Legal or not: A comparative analysis of Belgian and Uruguayan Cannabis Social Club members' profile and policy preferences" (2022)](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003055679-6/legal-eliana-%C3%A1lvarez-rosario-queirolo-lorena-repetto-mafalda-pardal)
+
+[Conflicting forces in the implementation of medicinal cannabis regulation in Uruguay(2023)](https://pubmed.ncbi.nlm.nih.gov/37434242/)
+
 ## Inés Fynn ##
 
 Inés Fynn es Profesora del Departamento de Ciencias Sociales de la Universidad Católica del Uruguay (UCU), y es Doctora en Ciencia Política por la Pontificia Universidad Católica de Chile (PUC). Su investigación y docencia se centran en la economía política del bienestar, la informalidad, el crimen organizado y las economías ilícitas, con un enfoque regional en América Latina. Es miembro de dos Institutos Milenios en Chile: Investigación en Violencia y Democracia (VIODEMOS) y Fundamentos de los Datos (IMFD). Su investigación ha sido financiada por la Agencia Nacional de Investigación e Innovación de Uruguay (ANII), FONDECYT Chile, EGAP, WZB Berlin Social Science Center Institutions and Political Inequality, entre otros.
 
-FALTA IMAGEN
+[](https://github.com/labcrimen/bios/blob/main/ines_fynn.jpg)
 
 ### Links a publicaciones ###
 
