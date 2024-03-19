@@ -7,7 +7,7 @@ Bogliaccini ha publicado dos libros: Empowering Labour: Leftist Approaches to Wa
 
 ![Juan-Ariel-Bogliaccini-_1](https://github.com/labcrimen/bios/blob/main/Juan-Ariel-Bogliaccini-_1_.png)
 
-![Juan Ariel Bogliaccini](https://github.com/labcrimen/bios/blob/main/Juan%20Ariel%20Bogliaccini.jpg)
+![Juan Ariel Bogliaccini](https://github.com/labcrimen/bios/blob/main/Juan%20Ariel%20Bogliaccini.jpg){: width="300px" }
 
 ### Links a publicaciones ###
 
