@@ -73,6 +73,8 @@ Profesora Asistente del Departamento de Ciencia Política de la Facultad de Cien
 
 ![Lorena Repetto](https://github.com/labcrimen/bios/blob/main/Lorena%20Repetto.jpg)
 
+### Link a publicaciones ###
+
 [Explaining the Impact of Legal Access to Cannabis on Attitudes toward Users (2023)](https://academic.oup.com/ijpor/article-abstract/35/2/edad010/7118416)
 
 [Hidden and uninterested populations: Methodological insights and unresolved issues from the study of Cannabis Social Clubs (2020)](https://journals.sagepub.com/doi/full/10.1177/2059799120976963)
