@@ -43,11 +43,11 @@ Profesora Asistente del Departamento de Ciencia Política de la Facultad de Cien
 
 [Explaining the Impact of Legal Access to Cannabis on Attitudes toward Users (2023)](https://academic.oup.com/ijpor/article-abstract/35/2/edad010/7118416)
 
-[Hidden and uninterested populations: Methodological insights and unresolved issues from the study of Cannabis Social Clubs (2020)] (https://journals.sagepub.com/doi/full/10.1177/2059799120976963)
+[Hidden and uninterested populations: Methodological insights and unresolved issues from the study of Cannabis Social Clubs (2020)](https://journals.sagepub.com/doi/full/10.1177/2059799120976963)
 
 [Why Uruguay legalized marijuana? The open window of public insecurity (2019)](https://onlinelibrary.wiley.com/doi/abs/10.1111/add.14523)
 
 [Uruguayan cannabis social clubs: from activism to dispensaries? (2019)](https://www.sciencedirect.com/science/article/abs/pii/S095539591930177X)
 
-[Regulación del cannabis: ¿un asunto de seguridad? Entrada y mantenimiento en agenda de un problema de política pública (2014)] (http://www.scielo.edu.uy/scielo.php?pid=S1688-499X2014000100005&script=sci_arttext)
+[Regulación del cannabis: ¿un asunto de seguridad? Entrada y mantenimiento en agenda de un problema de política pública (2014)](http://www.scielo.edu.uy/scielo.php?pid=S1688-499X2014000100005&script=sci_arttext)
 
