@@ -37,4 +37,11 @@ FALTA IMAGEN
 
 Profesora Asistente del Departamento de Ciencia Política de la Facultad de Ciencias Sociales (Udelar). Candidata a Doctora en Ciencia Política (Udelar). Magíster en Políticas Públicas por la Universidad Católica del Uruguay (UCU) con un Diploma de Especialización en Métodos. Actualmente cuenta con financiamiento del programa de becas de apoyo a docentes para  estudios de doctorado de la Comisión Académica de Posgrados de la Udelar (2021 - 2024). Integra el Latin American Marijuana Research Initiative (Universidad Católica del Uruguay) como investigadora desde 2016, grupo en el que se desarrollan diferentes líneas de investigación sobre evaluación de impacto de políticas de regulación del cannabis. Es co-responsable científica del Proyecto Mercado ilegal, mercado gris y mercado legal después de la regulación del cannabis en Uruguay, financiado por el Fondo María Viñas (ANII). Integra el Sistema Nacional de Investigadores (SNI), nivel Iniciación.
 
+![Lorena Repetto](https://github.com/labcrimen/bios/blob/main/Lorena%20Repetto.jpg)
+
+[Explaining the Impact of Legal Access to Cannabis on Attitudes toward Users (2023)](https://academic.oup.com/ijpor/article-abstract/35/2/edad010/7118416)
+[Hidden and uninterested populations: Methodological insights and unresolved issues from the study of Cannabis Social Clubs (2020)] (https://journals.sagepub.com/doi/full/10.1177/2059799120976963)
+[Why Uruguay legalized marijuana? The open window of public insecurity (2019)](https://onlinelibrary.wiley.com/doi/abs/10.1111/add.14523)
+[Uruguayan cannabis social clubs: from activism to dispensaries? (2019)] (https://www.sciencedirect.com/science/article/abs/pii/S095539591930177X)
+[Regulación del cannabis: ¿un asunto de seguridad? Entrada y mantenimiento en agenda de un problema de política pública (2014)] (http://www.scielo.edu.uy/scielo.php?pid=S1688-499X2014000100005&script=sci_arttext)
 
