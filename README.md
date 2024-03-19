@@ -5,8 +5,6 @@
 Juan A. Bogliaccini es Profesor del Departamento de Ciencias Sociales y Decano de la Escuela de Posgrados de la Universidad Católica del Uruguay (UCU). Su investigación y docencia se centran en la economía política de la distribución, el crimen y las economías ilícitas y la ciencia de datos. Fue Director fundador del Departamento de Ciencias Sociales (2012-2016) y Director fundador del Centro de Métodos (2021-2022) en la UCU. También fue editor principal de Springer Nature Latin America Political Economy Series (2019-2023). Se desempeña como presidente del Comité Directivo de REPAL (Red para el Estudio de la Economía Política en América Latina) para el período 2023 a 2026.
 Bogliaccini ha publicado dos libros: Empowering Labour: Leftist Approaches to Wage Policy in Latin America (próximamente en 2024 en la CUP), Twittarquía: la Política de las Redes en Uruguay, y decenas de artículos académicos y artículos de opinión. Su investigación ha sido financiada por la Agencia Nacional de Investigación e Innovación de Uruguay, FONDECYT Chile, Konrad Adenauer Stiftung, Departamento de Investigación de la OIT, PNUD, BID, UNU-Wider, entre otros.
 
-![Juan-Ariel-Bogliaccini-_1](https://github.com/labcrimen/bios/blob/main/Juan-Ariel-Bogliaccini-_1_.png)
-
 ![Juan Ariel Bogliaccini](https://github.com/labcrimen/bios/blob/main/Juan%20Ariel%20Bogliaccini.jpg)
 
 ### Links a publicaciones ###
@@ -45,7 +43,7 @@ Emiliano Tealde es Doctor en Economía por la Universidad de Siena, Italia, y es
 
 Rosario Queirolo es Ph.D en Ciencia Política (University of Pittsburgh, 2008), y  Profesora Titular en el Departamento de Ciencias Sociales de la Universidad Católica del Uruguay. Sus áreas de investigación son el comportamiento electoral, la opinión pública, y las políticas de drogas y seguridad. En los últimos años ha estado investigando sobre los procesos de regulación de cannabis y sus impactos. Es autora de "The Success of the Left in Latin America. Untainted Parties, Market Reforms and Voting Behavior" (University of Notre Dame Press, 2013). Ha publicado numerosos capítulos de libros y artículos en revistas como International Journal of Public Opinion Research; Journal of Elections, Public Opinion and Parties; Addiction; International Journal of Drug Policy; World Psychiatry; Journal of Colombia Internacional; Drug and Alcohol Review; Revista de Ciencia Política; entre otras.
 
-![Rosario Queirolo](https://github.com/labcrimen/bios/blob/main/rosario queirolo.jpg)
+![Rosario Queirolo](https://github.com/labcrimen/bios/blob/main/rosario%20queirolo.jpg)
 
 ### Links a publicaciones ###
 
