@@ -1,4 +1,4 @@
-# bios
+# EQUIPO DE INVESTIGACIÓN #
 
 ## Juan Bogliaccini ##
 
