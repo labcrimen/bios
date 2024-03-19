@@ -59,7 +59,7 @@ Rosario Queirolo es Ph.D en Ciencia Política (University of Pittsburgh, 2008), 
 
 Inés Fynn es Profesora del Departamento de Ciencias Sociales de la Universidad Católica del Uruguay (UCU), y es Doctora en Ciencia Política por la Pontificia Universidad Católica de Chile (PUC). Su investigación y docencia se centran en la economía política del bienestar, la informalidad, el crimen organizado y las economías ilícitas, con un enfoque regional en América Latina. Es miembro de dos Institutos Milenios en Chile: Investigación en Violencia y Democracia (VIODEMOS) y Fundamentos de los Datos (IMFD). Su investigación ha sido financiada por la Agencia Nacional de Investigación e Innovación de Uruguay (ANII), FONDECYT Chile, EGAP, WZB Berlin Social Science Center Institutions and Political Inequality, entre otros.
 
-[Inés Fynn](https://github.com/labcrimen/bios/blob/main/ines_fynn.jpg)
+![Inés Fynn](https://github.com/labcrimen/bios/blob/main/ines_fynn.jpg)
 
 ### Links a publicaciones ###
 
