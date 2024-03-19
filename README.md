@@ -33,4 +33,8 @@ FALTA IMAGEN
 [Pre-Analysis Plan: “Investigating Criminal Governance Strategies in Montevideo” con Gustavo Díaz, Verónica Pérez Bentancur, y Lucía Tiscornia (2022)](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=602yPVsAAAAJ&citation_for_view=602yPVsAAAAJ:2osOgNQ5qMEC)
 [Informe: “En las grietas del Estado: gobernanza criminal en Montevideo, Uruguay con Verónica Pérez Bentancur y Lucía Tiscornia (2023)] FALTA LINK
 
+## Lorena Repetto ##
+
+Profesora Asistente del Departamento de Ciencia Política de la Facultad de Ciencias Sociales (Udelar). Candidata a Doctora en Ciencia Política (Udelar). Magíster en Políticas Públicas por la Universidad Católica del Uruguay (UCU) con un Diploma de Especialización en Métodos. Actualmente cuenta con financiamiento del programa de becas de apoyo a docentes para  estudios de doctorado de la Comisión Académica de Posgrados de la Udelar (2021 - 2024). Integra el Latin American Marijuana Research Initiative (Universidad Católica del Uruguay) como investigadora desde 2016, grupo en el que se desarrollan diferentes líneas de investigación sobre evaluación de impacto de políticas de regulación del cannabis. Es co-responsable científica del Proyecto Mercado ilegal, mercado gris y mercado legal después de la regulación del cannabis en Uruguay, financiado por el Fondo María Viñas (ANII). Integra el Sistema Nacional de Investigadores (SNI), nivel Iniciación.
+
 
