@@ -27,7 +27,7 @@ Bogliaccini ha publicado dos libros: Empowering Labour: Leftist Approaches to Wa
 
 Emiliano Tealde es Doctor en Economía por la Universidad de Siena, Italia, y es Profesor Asociado en el Departamento de Ciencias Sociales de la Universidad Católica del Uruguay. Su principal área de interés es la economía del crimen. Ha publicado en revistas como The Journal of Population Economics, Government Information Quarterly, Economía Lacea Journal, entre otras.
 
-![Emiliano Tealde](https://github.com/labcrimen/bios/blob/main/E. Tealde.jpg)
+![Emiliano Tealde](https://github.com/labcrimen/bios/blob/main/E.Tealde.jpg)
 
 ### Links a publicaciones ###
 
