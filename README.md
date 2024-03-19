@@ -20,3 +20,17 @@ Bogliaccini ha publicado dos libros: Empowering Labour: Leftist Approaches to Wa
 [Podcast Proyecto ANII Cap 2](https://open.spotify.com/embed-podcast/episode/2alwgmrd2jLrVbAD4zOrzE)
 
 [Podcast Proyecto ANII Cap 3](https://open.spotify.com/embed-podcast/episode/0ssje04S5gsLYiwSUXLIC9)
+
+## Inés Fynn ##
+
+Inés Fynn es Profesora del Departamento de Ciencias Sociales de la Universidad Católica del Uruguay (UCU), y es Doctora en Ciencia Política por la Pontificia Universidad Católica de Chile (PUC). Su investigación y docencia se centran en la economía política del bienestar, la informalidad, el crimen organizado y las economías ilícitas, con un enfoque regional en América Latina. Es miembro de dos Institutos Milenios en Chile: Investigación en Violencia y Democracia (VIODEMOS) y Fundamentos de los Datos (IMFD). Su investigación ha sido financiada por la Agencia Nacional de Investigación e Innovación de Uruguay (ANII), FONDECYT Chile, EGAP, WZB Berlin Social Science Center Institutions and Political Inequality, entre otros.
+
+FALTA IMAGEN
+
+### Links a publicaciones ###
+
+[Tesis doctoral: Unveiling Commitments of Silence: Reciprocity Networks and Drug Gangs in Montevideo, Uruguay (2023)](https://doi.org/10.7764/tesisUC/CIP/66914)
+[Pre-Analysis Plan: “Investigating Criminal Governance Strategies in Montevideo” con Gustavo Díaz, Verónica Pérez Bentancur, y Lucía Tiscornia (2022)](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=602yPVsAAAAJ&citation_for_view=602yPVsAAAAJ:2osOgNQ5qMEC)
+[Informe: “En las grietas del Estado: gobernanza criminal en Montevideo, Uruguay con Verónica Pérez Bentancur y Lucía Tiscornia (2023)] FALTA LINK
+
+
