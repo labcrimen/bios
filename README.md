@@ -25,7 +25,7 @@ Bogliaccini ha publicado dos libros: Empowering Labour: Leftist Approaches to Wa
 
 Emiliano Tealde es Doctor en Economía por la Universidad de Siena, Italia, y es Profesor Asociado en el Departamento de Ciencias Sociales de la Universidad Católica del Uruguay. Su principal área de interés es la economía del crimen. Ha publicado en revistas como The Journal of Population Economics, Government Information Quarterly, Economía Lacea Journal, entre otras.
 
-![Emiliano Tealde](https://github.com/labcrimen/bios/blob/main/E.%20Tealde.jpg)
+![Emiliano Tealde](./E.%20Tealde.jpg)
 
 ### Links a publicaciones ###
 
@@ -43,7 +43,7 @@ Emiliano Tealde es Doctor en Economía por la Universidad de Siena, Italia, y es
 
 Rosario Queirolo es Ph.D en Ciencia Política (University of Pittsburgh, 2008), y  Profesora Titular en el Departamento de Ciencias Sociales de la Universidad Católica del Uruguay. Sus áreas de investigación son el comportamiento electoral, la opinión pública, y las políticas de drogas y seguridad. En los últimos años ha estado investigando sobre los procesos de regulación de cannabis y sus impactos. Es autora de "The Success of the Left in Latin America. Untainted Parties, Market Reforms and Voting Behavior" (University of Notre Dame Press, 2013). Ha publicado numerosos capítulos de libros y artículos en revistas como International Journal of Public Opinion Research; Journal of Elections, Public Opinion and Parties; Addiction; International Journal of Drug Policy; World Psychiatry; Journal of Colombia Internacional; Drug and Alcohol Review; Revista de Ciencia Política; entre otras.
 
-![Rosario Queirolo](https://github.com/labcrimen/bios/blob/main/rosario%20queirolo.jpg)
+![Rosario Queirolo](./rosario%20queirolo.jpg)
 
 ### Links a publicaciones ###
 
@@ -57,7 +57,7 @@ Rosario Queirolo es Ph.D en Ciencia Política (University of Pittsburgh, 2008), 
 
 Inés Fynn es Profesora del Departamento de Ciencias Sociales de la Universidad Católica del Uruguay (UCU), y es Doctora en Ciencia Política por la Pontificia Universidad Católica de Chile (PUC). Su investigación y docencia se centran en la economía política del bienestar, la informalidad, el crimen organizado y las economías ilícitas, con un enfoque regional en América Latina. Es miembro de dos Institutos Milenios en Chile: Investigación en Violencia y Democracia (VIODEMOS) y Fundamentos de los Datos (IMFD). Su investigación ha sido financiada por la Agencia Nacional de Investigación e Innovación de Uruguay (ANII), FONDECYT Chile, EGAP, WZB Berlin Social Science Center Institutions and Political Inequality, entre otros.
 
-![Inés Fynn](https://github.com/labcrimen/bios/blob/main/ines_fynn.jpg)
+![Inés Fynn](./ines_fynn.jpg)
 
 ### Links a publicaciones ###
 
@@ -71,7 +71,7 @@ Inés Fynn es Profesora del Departamento de Ciencias Sociales de la Universidad 
 
 Profesora Asistente del Departamento de Ciencia Política de la Facultad de Ciencias Sociales (Udelar). Candidata a Doctora en Ciencia Política (Udelar). Magíster en Políticas Públicas por la Universidad Católica del Uruguay (UCU) con un Diploma de Especialización en Métodos. Actualmente cuenta con financiamiento del programa de becas de apoyo a docentes para  estudios de doctorado de la Comisión Académica de Posgrados de la Udelar (2021 - 2024). Integra el Latin American Marijuana Research Initiative (Universidad Católica del Uruguay) como investigadora desde 2016, grupo en el que se desarrollan diferentes líneas de investigación sobre evaluación de impacto de políticas de regulación del cannabis. Es co-responsable científica del Proyecto Mercado ilegal, mercado gris y mercado legal después de la regulación del cannabis en Uruguay, financiado por el Fondo María Viñas (ANII). Integra el Sistema Nacional de Investigadores (SNI), nivel Iniciación.
 
-![Lorena Repetto](https://github.com/labcrimen/bios/blob/main/Lorena%20Repetto.jpg)
+![Lorena Repetto](./Lorena%20Repetto.jpg)
 
 ### Link a publicaciones ###
 
