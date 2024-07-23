@@ -95,3 +95,4 @@ Profesora Asistente del Departamento de Ciencia Política de la Facultad de Cien
 
 [Regulación del cannabis: ¿un asunto de seguridad? Entrada y mantenimiento en agenda de un problema de política pública (2014)](http://www.scielo.edu.uy/scielo.php?pid=S1688-499X2014000100005&script=sci_arttext)
 
+[Atrás]({{ https://github.com/labcrimen/labcrimen.github.io/blob/main/README.md?plain=1 }}/)
