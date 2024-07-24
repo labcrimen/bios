@@ -114,4 +114,4 @@ Emiliano Tealde es Doctor en Economía por la Universidad de Siena, Italia, y es
 [web personal](https://www.emilianotealde.com/)
 
 
-[**Atrás**](https://github.com/labcrimen/labcrimen.github.io/blob/main/README.md?plain=1)
+[**Atrás**](https://labcrimen.github.io/)
