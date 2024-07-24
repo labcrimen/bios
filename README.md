@@ -13,7 +13,9 @@ Bogliaccini ha publicado dos libros: Empowering Labour: Leftist Approaches to Wa
 
 [Tackling Drug-Lords in a Nascent Market: Raids and Drug Crime in Uruguay (2022)](https://journals.sagepub.com/doi/abs/10.1177/08874034211046985?journalCode=cjpa)
 
-[Las claves territoriales de la fractura social urbana: Inseguridad y segregación en Montevideo (2005)] FALTA LINK
+[Crimen y narcotráfico: un análisis exploratorio del caso Uruguay (2022)](https://www.undp.org/es/uruguay/publicaciones/crimen-y-narcotrafico-un-analisis-exploratorio-del-caso-uruguay)
+
+[Las claves territoriales de la fractura social urbana: Inseguridad y segregación en Montevideo (2005)](https://juanbogliaccini.weebly.com/uploads/5/2/9/1/52913163/bogliaccini_inseguridad_final_diciembre.pdf)
 
 ### Links a recursos ###
 
@@ -23,41 +25,9 @@ Bogliaccini ha publicado dos libros: Empowering Labour: Leftist Approaches to Wa
 
 [Podcast Proyecto ANII Cap 3](https://open.spotify.com/embed-podcast/episode/0ssje04S5gsLYiwSUXLIC9)
 
-## Emiliano Tealde ##
+### Página web personal ###
 
-Emiliano Tealde es Doctor en Economía por la Universidad de Siena, Italia, y es Profesor Asociado en el Departamento de Ciencias Sociales de la Universidad Católica del Uruguay. Su principal área de interés es la economía del crimen. Ha publicado en revistas como The Journal of Population Economics, Government Information Quarterly, Economía Lacea Journal, entre otras.
-
-<img src="./E.%20Tealde.jpg" alt="" width="50%" height="50%" />
-
-<!-- ![Emiliano Tealde](./E.%20Tealde.jpg) -->
-
-### Links a publicaciones ###
-
-[How the exercise of the right to information (RTI) affects trust in political institutions (2023)](https://www.sciencedirect.com/science/article/abs/pii/S0740624X2300038)
-
-[The Unequal Impact of Natural Light on Crime (2022)](https://link.springer.com/epdf/10.1007/s00148-021-00831-8?sharing_token=cfHvdWLOKXwTV5NzSNzy3fe4RwlQNchNByi7wbcMAY4iy8ye4jfk5x72pU7Ium1fxvXdXUq-ajbU-cTCM-713D9YsAyW8IJJqxlPOgPShAQkerWZfaS8fBvBR4v_tIdww7Huy_9cXqscneLc3rrasKwEjln9HMjf1CLhlB8SzXU%3D)
-
-[The Impact of Police Presence on Drug Trade-Related Violence (2019)]( https://economia.lse.ac.uk/articles/10.1353/eco.2019.0008)
-
-### Web personal ###
-
-[www.emilianotealde.com](www.emilianotealde.com)
-
-## Rosario Queirolo ##
-
-Rosario Queirolo es Ph.D en Ciencia Política (University of Pittsburgh, 2008), y  Profesora Titular en el Departamento de Ciencias Sociales de la Universidad Católica del Uruguay. Sus áreas de investigación son el comportamiento electoral, la opinión pública, y las políticas de drogas y seguridad. En los últimos años ha estado investigando sobre los procesos de regulación de cannabis y sus impactos. Es autora de "The Success of the Left in Latin America. Untainted Parties, Market Reforms and Voting Behavior" (University of Notre Dame Press, 2013). Ha publicado numerosos capítulos de libros y artículos en revistas como International Journal of Public Opinion Research; Journal of Elections, Public Opinion and Parties; Addiction; International Journal of Drug Policy; World Psychiatry; Journal of Colombia Internacional; Drug and Alcohol Review; Revista de Ciencia Política; entre otras.
-
-<img src="./rosario%20queirolo.jpg" alt="" width="50%" height="50%" />
-
-<!-- ![Rosario Queirolo](./rosario%20queirolo.jpg)  -->
-
-### Links a publicaciones ###
-
-[Explaining the Impact of Legal Access to Cannabis on Attitudes toward Users (2023)](https://academic.oup.com/ijpor/article-abstract/35/2/edad010/7118416?redirectedFrom=fulltext&login=false)
-
-[Legal or not: A comparative analysis of Belgian and Uruguayan Cannabis Social Club members' profile and policy preferences (2022)](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003055679-6/legal-eliana-%C3%A1lvarez-rosario-queirolo-lorena-repetto-mafalda-pardal)
-
-[Conflicting forces in the implementation of medicinal cannabis regulation in Uruguay (2023)](https://pubmed.ncbi.nlm.nih.gov/37434242/)
+[web personal](https://juanbogliaccini.weebly.com/)
 
 ## Inés Fynn ##
 
@@ -74,6 +44,32 @@ Inés Fynn es Profesora del Departamento de Ciencias Sociales de la Universidad 
 [Informe: “En las grietas del Estado: gobernanza criminal en Montevideo, Uruguay con Verónica Pérez Bentancur y Lucía Tiscornia (2023)] FALTA LINK
 
 [Pre-Analysis Plan: “Investigating Criminal Governance Strategies in Montevideo” con Gustavo Díaz, Verónica Pérez Bentancur, y Lucía Tiscornia (2022)](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=602yPVsAAAAJ&citation_for_view=602yPVsAAAAJ:2osOgNQ5qMEC)
+
+## Verónica Pérez Bentancur ##
+
+ACÁ TIENE QUE IR SU BIO, FOTO, WEB PERSONAL Y PUBLICACIONES
+
+## Rosario Queirolo ##
+
+Rosario Queirolo es Ph.D en Ciencia Política (University of Pittsburgh, 2008), y  Profesora Titular en el Departamento de Ciencias Sociales de la Universidad Católica del Uruguay. Sus áreas de investigación son el comportamiento electoral, la opinión pública, y las políticas de drogas y seguridad. En los últimos años ha estado investigando sobre los procesos de regulación de cannabis y sus impactos. Es autora de "The Success of the Left in Latin America. Untainted Parties, Market Reforms and Voting Behavior" (University of Notre Dame Press, 2013). Ha publicado numerosos capítulos de libros y artículos en revistas como International Journal of Public Opinion Research; Journal of Elections, Public Opinion and Parties; Addiction; International Journal of Drug Policy; World Psychiatry; Journal of Colombia Internacional; Drug and Alcohol Review; Revista de Ciencia Política; entre otras.
+
+<img src="./rosario%20queirolo.jpg" alt="" width="50%" height="50%" />
+
+<!-- ![Rosario Queirolo](./rosario%20queirolo.jpg)  -->
+
+### Links a publicaciones ###
+
+[Explaining the Impact of Legal Access to Cannabis on Attitudes toward Users (2023)](https://academic.oup.com/ijpor/article-abstract/35/2/edad010/7118416?redirectedFrom=fulltext&login=false)
+
+[Conflicting forces in the implementation of medicinal cannabis regulation in Uruguay (2023)](https://pubmed.ncbi.nlm.nih.gov/37434242/)
+
+[Legal or not: A comparative analysis of Belgian and Uruguayan Cannabis Social Club members' profile and policy preferences (2022)](https://www.taylorfrancis.com/chapters/edit/10.4324/9781003055679-6/legal-eliana-%C3%A1lvarez-rosario-queirolo-lorena-repetto-mafalda-pardal)
+
+[Crimen y narcotráfico: un análisis exploratorio del caso Uruguay (2022)](https://www.undp.org/es/uruguay/publicaciones/crimen-y-narcotrafico-un-analisis-exploratorio-del-caso-uruguay)
+
+### Página web personal ###
+
+[web personal](https://sites.google.com/view/rosario-queirolo/inicio)
 
 ## Lorena Repetto ##
 
@@ -95,6 +91,27 @@ Profesora Asistente del Departamento de Ciencia Política de la Facultad de Cien
 
 [Regulación del cannabis: ¿un asunto de seguridad? Entrada y mantenimiento en agenda de un problema de política pública (2014)](http://www.scielo.edu.uy/scielo.php?pid=S1688-499X2014000100005&script=sci_arttext)
 
+## Emiliano Tealde ##
+
+Emiliano Tealde es Doctor en Economía por la Universidad de Siena, Italia, y es Profesor Asociado en el Departamento de Ciencias Sociales de la Universidad Católica del Uruguay. Su principal área de interés es la economía del crimen. Ha publicado en revistas como The Journal of Population Economics, Government Information Quarterly, Economía Lacea Journal, entre otras.
+
+<img src="./E.%20Tealde.jpg" alt="" width="50%" height="50%" />
+
+<!-- ![Emiliano Tealde](./E.%20Tealde.jpg) -->
+
+### Links a publicaciones ###
+
+[How the exercise of the right to information (RTI) affects trust in political institutions (2023)](https://www.sciencedirect.com/science/article/abs/pii/S0740624X2300038)
+
+[The Unequal Impact of Natural Light on Crime (2022)](https://link.springer.com/epdf/10.1007/s00148-021-00831-8?sharing_token=cfHvdWLOKXwTV5NzSNzy3fe4RwlQNchNByi7wbcMAY4iy8ye4jfk5x72pU7Ium1fxvXdXUq-ajbU-cTCM-713D9YsAyW8IJJqxlPOgPShAQkerWZfaS8fBvBR4v_tIdww7Huy_9cXqscneLc3rrasKwEjln9HMjf1CLhlB8SzXU%3D)
+
+[Crimen y narcotráfico: un análisis exploratorio del caso Uruguay (2022)](https://www.undp.org/es/uruguay/publicaciones/crimen-y-narcotrafico-un-analisis-exploratorio-del-caso-uruguay)
+
+[The Impact of Police Presence on Drug Trade-Related Violence (2019)]( https://economia.lse.ac.uk/articles/10.1353/eco.2019.0008)
+
+### Página web personal ###
+
+[web personal](www.emilianotealde.com)
 
 
-[Atrás](https://github.com/labcrimen/labcrimen.github.io/blob/main/README.md?plain=1)
+[**Atrás**](https://github.com/labcrimen/labcrimen.github.io/blob/main/README.md?plain=1)
