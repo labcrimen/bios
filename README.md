@@ -113,5 +113,9 @@ Emiliano Tealde es Doctor en Economía por la Universidad de Siena, Italia, y es
 
 [web personal](https://www.emilianotealde.com/)
 
+## Joaquín Alonso ##
 
+Joaquín Alonso es Licenciado en Sociología por la Universidad de la República y candidato a Magíster en Políticas Públicas por la Universidad Católica del Uruguay. Es becario ANII en la Maestría en Políticas Públicas. Trabaja como asistente de investigación y profesor instructor en el Departamento de Ciencias Sociales de la Universidad Católica del Uruguay. 
+
+<img src="./jah.jpg" alt="" width="50%" height="50%" />
 [**Atrás**](https://labcrimen.github.io/)
