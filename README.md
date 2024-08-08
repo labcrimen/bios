@@ -121,4 +121,13 @@ Joaquín Alonso es Licenciado en Sociología por la Universidad de la República
 
 [Proyecto LAMRI](https://www.ucu.edu.uy/Institucionales/Latin-American-marijuana-research-initiative--LAMRI-uc964)
 
+## Melissa Saavedra ##
+
+Politóloga graduada de la Universidad Pontificia Javeriana, especialista en Proyectos para el Desarrollo de la Universidad de Columbia de Nueva York y Universidad Externado de Colombia. Magíster en Políticas Públicas de la Universidad Católica de Uruguay.
+Se desempeña como asistente de investigación y consultora. Anteriormente trabajó como asesora en políticas públicas y coordinadora del equipo de seguimiento estratégico en la Secretaría de Gobierno de la Alcaldía de Cali. Y como Directora de Proyectos y Directora de Desarrollo e Innovación de la Corporación Mundial de la Mujer Colombia (CMMC). 
+
+## Santiago Carrère ##
+
+Santiago Carrère es Licenciado en Psicología por la Universidad de la República y Licenciado en Filosofía por la Universidad de la República. Es candidato a Magíster en Políticas Públicas por la Universidad Católica del Uruguay. Actualmente se desempeña como Asistente de Investigación en el Departamento de Ciencias Sociales y Políticas de la Universidad Católica del Uruguay y como Analista de Datos en la Escuela de Postgrados de dicha institución. 
+
 [**Atrás**](https://labcrimen.github.io/)
