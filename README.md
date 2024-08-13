@@ -49,7 +49,7 @@ Inés Fynn es Profesora del Departamento de Ciencias Sociales de la Universidad 
 
 Verónica Pérez Bentancur es Doctora en Ciencia Política por la Universidad Torcuato Di Tella (Argentina). Su investigación se enfoca en el área de la política comparada en América Latina con énfasis en organizaciones partidarias, política y género, y crimen. Su trabajo se ha publicado en una variedad de revistas arbitradas y editoriales académicas. Es editora de la Revista Uruguaya de Ciencia Política.  
 
-<img src="./rosario%20queirolo.jpg" alt="" width="50%" height="50%" />
+<img src="./veronica_perez.jpg" alt="" width="50%" height="50%" />
 
 <!-- ![Rosario Queirolo](./rosario%20queirolo.jpg)  -->
 
