@@ -51,7 +51,7 @@ Verónica Pérez Bentancur es Doctora en Ciencia Política por la Universidad To
 
 <img src="./veronica_perez.jpg" alt="" width="50%" height="50%" />
 
-<!-- ![Rosario Queirolo](./rosario%20queirolo.jpg)  -->
+### Página web personal ###
 
 [web personal](https://veronicaperezbentancur.com/)
 
