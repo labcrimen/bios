@@ -49,6 +49,8 @@ Inés Fynn es Profesora del Departamento de Ciencias Sociales de la Universidad 
 
 ACÁ TIENE QUE IR SU BIO, FOTO, WEB PERSONAL Y PUBLICACIONES
 
+[web personal](https://veronicaperezbentancur.com/)
+
 ## Rosario Queirolo ##
 
 Rosario Queirolo es Ph.D en Ciencia Política (University of Pittsburgh, 2008), y  Profesora Titular en el Departamento de Ciencias Sociales de la Universidad Católica del Uruguay. Sus áreas de investigación son el comportamiento electoral, la opinión pública, y las políticas de drogas y seguridad. En los últimos años ha estado investigando sobre los procesos de regulación de cannabis y sus impactos. Es autora de "The Success of the Left in Latin America. Untainted Parties, Market Reforms and Voting Behavior" (University of Notre Dame Press, 2013). Ha publicado numerosos capítulos de libros y artículos en revistas como International Journal of Public Opinion Research; Journal of Elections, Public Opinion and Parties; Addiction; International Journal of Drug Policy; World Psychiatry; Journal of Colombia Internacional; Drug and Alcohol Review; Revista de Ciencia Política; entre otras.
