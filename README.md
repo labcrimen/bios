@@ -130,4 +130,6 @@ Se desempeña como asistente de investigación y consultora. Anteriormente traba
 
 Santiago Carrère es Licenciado en Psicología por la Universidad de la República y Licenciado en Filosofía por la Universidad de la República. Es candidato a Magíster en Políticas Públicas por la Universidad Católica del Uruguay. Actualmente se desempeña como Asistente de Investigación en el Departamento de Ciencias Sociales y Políticas de la Universidad Católica del Uruguay y como Analista de Datos en la Escuela de Postgrados de dicha institución. 
 
+<img src="./scarrere.jpg" alt="" width="40%" height="40%" />
+
 [**Atrás**](https://labcrimen.github.io/)
