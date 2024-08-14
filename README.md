@@ -47,9 +47,9 @@ Inés Fynn es Profesora del Departamento de Ciencias Sociales de la Universidad 
 
 ## Verónica Pérez Bentancur ##
 
-Verónica Pérez Bentancur es Doctora en Ciencia Política por la Universidad Torcuato Di Tella (Argentina). Su investigación se enfoca en el área de la política comparada en América Latina con énfasis en organizaciones partidarias, política y género, y crimen. Su trabajo se ha publicado en una variedad de revistas arbitradas y editoriales académicas. Es editora de la Revista Uruguaya de Ciencia Política.  
+Profesora adjunta en el Departamento de Ciencia Política, Facultad de Ciencias Sociales, Universidad de la República, Uruguay. Doctora en Ciencia Política por la Universidad Torcuato Di Tella (Argentina). Sus temas de investigación se centran en asuntos de política comparada en América Latina y en temas de política y género, partidos y movimientos sociales y crimen. Su trabajo ha sido publicado en revistas arbitradas como Politics & Gender, Politics & Society, Sociological Methods & Research, Comparative Political Studies, Urban Affairs, Comparative Politics, Revista de Ciencia Política, entre otras. Junto a Rafael Piñeiro Rodriguez y Fernando Rosenblatt es autora del libro How Party Activism Survives. The Frente Amplio in Uruguay (Cambridge University Press 2020). En 2020 este libro obtuvo el premio Leon Epstein otorgado por la sección de Organizaciones Partidarias de la American Political Science Association (APSA). En 2023, la versión en español del libro obtuvo el premio Real de Azúa de la Asociación Uruguaya en Ciencia y el premio Claudia Castañeda de la Asociación Chilena de Ciencia Política. Editora de la Revista Uruguaya de Ciencia Política (RUCP). Investigadora (Nivel I) Sistema Nacional de Investigadores de Uruguay. Consultora de organizaciones internacionales como ONU Mujeres, el Programa de las Naciones Unidas para el Desarrollo (PNUD) y EUROsociAL+. 
 
-<img src="./veronica_perez.jpg" alt="" width="50%" height="50%" />
+<img src="./vero.jpg" alt="" width="40%" height="40%" />
 
 ### Página web personal ###
 
