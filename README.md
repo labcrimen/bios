@@ -121,22 +121,19 @@ Emiliano Tealde es Doctor en Economía por la Universidad de Siena, Italia, y es
 
 [web personal](https://www.emilianotealde.com/)
 
+# ASISTENTES DE INVESTIGACIÓN #
+
 ## Joaquín Alonso ##
 
-Joaquín Alonso es Licenciado en Sociología por la Universidad de la República y candidato a Magíster en Políticas Públicas por la Universidad Católica del Uruguay. Es becario ANII en la Maestría en Políticas Públicas. Trabaja como asistente de investigación y profesor instructor en el Departamento de Ciencias Sociales de la Universidad Católica del Uruguay. Forma parte del proyecto LAMRI.   
+Joaquín Alonso es Licenciado en Sociología por la Universidad de la República y Maestrando en Políticas Públicas por la Universidad Católica del Uruguay. Es becario ANII en la Maestría en Políticas Públicas. Trabaja como asistente de investigación y profesor instructor en el Departamento de Ciencias Sociales de la Universidad Católica del Uruguay. Forma parte del proyecto LAMRI.   
 
 <img src="./jah.jpg" alt="" width="40%" height="40%" />
 
 [Proyecto LAMRI](https://www.ucu.edu.uy/Institucionales/Latin-American-marijuana-research-initiative--LAMRI-uc964)
 
-## Melissa Saavedra ##
-
-Politóloga graduada de la Universidad Pontificia Javeriana, especialista en Proyectos para el Desarrollo de la Universidad de Columbia de Nueva York y Universidad Externado de Colombia. Magíster en Políticas Públicas de la Universidad Católica de Uruguay.
-Se desempeña como asistente de investigación y consultora. Anteriormente trabajó como asesora en políticas públicas y coordinadora del equipo de seguimiento estratégico en la Secretaría de Gobierno de la Alcaldía de Cali. Y como Directora de Proyectos y Directora de Desarrollo e Innovación de la Corporación Mundial de la Mujer Colombia (CMMC). 
-
 ## Santiago Carrère ##
 
-Santiago Carrère es Licenciado en Psicología por la Universidad de la República y Licenciado en Filosofía por la Universidad de la República. Es candidato a Magíster en Políticas Públicas por la Universidad Católica del Uruguay. Actualmente se desempeña como Asistente de Investigación en el Departamento de Ciencias Sociales y Políticas de la Universidad Católica del Uruguay y como Analista de Datos en la Escuela de Postgrados de dicha institución. 
+Santiago Carrère es Licenciado en Psicología por la Universidad de la República y Licenciado en Filosofía por la Universidad de la República. Es Maestrando en Políticas Públicas por la Universidad Católica del Uruguay. Actualmente se desempeña como Asistente de Investigación en el Departamento de Ciencias Sociales y Políticas de la Universidad Católica del Uruguay y como Analista de Datos en la Escuela de Postgrados de dicha institución. 
 
 <img src="./scarrere.jpg" alt="" width="40%" height="40%" />
 
