@@ -17,14 +17,6 @@ Bogliaccini ha publicado dos libros: Empowering Labour: Leftist Approaches to Wa
 
 [Las claves territoriales de la fractura social urbana: Inseguridad y segregación en Montevideo (2005)](https://juanbogliaccini.weebly.com/uploads/5/2/9/1/52913163/bogliaccini_inseguridad_final_diciembre.pdf)
 
-### Links a recursos ###
-
-[Podcast Proyecto ANII Cap 1](https://open.spotify.com/embed-podcast/episode/4iSZixMSIwlYZqURUt3XSS)
-
-[Podcast Proyecto ANII Cap 2](https://open.spotify.com/embed-podcast/episode/2alwgmrd2jLrVbAD4zOrzE)
-
-[Podcast Proyecto ANII Cap 3](https://open.spotify.com/embed-podcast/episode/0ssje04S5gsLYiwSUXLIC9)
-
 ### Página web personal ###
 
 [web personal](https://juanbogliaccini.weebly.com/)
